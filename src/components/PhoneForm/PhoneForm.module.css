@@ -1,0 +1,45 @@
+.phonebook_title_h2 {
+  font-size: 32px;
+  font-family: Arial, sans-serif;
+  font-style: italic;
+}
+.phonebook_title {
+  display: block;
+}
+.phonebook_block_title {
+  display: block;
+  font-size: 28px;
+  font-family: Arial, sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  margin-right: 20px;
+}
+.input_search {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.phonebook_btn_addcontact {
+  display: block;
+  margin-top: 15px;
+  border-radius: 10%;
+  outline: solid 1px grey;
+}
+.phonebook_btn_addcontact:hover {
+  background: green;
+  cursor: pointer;
+}
+.phonebook_contacts_block {
+  display: block;
+}
+.phonebook_contacts {
+  display: block;
+}
+.div_counter_feedback {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+}

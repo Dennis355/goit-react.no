@@ -1,0 +1,47 @@
+.contact_items {
+  display: block;
+  padding-inline-start: 5px;
+}
+.phonebook_contacts_block {
+  display: block;
+}
+
+.div_phonebook_full {
+  display: block;
+  width: min-content;
+  height: min-content;
+}
+
+.contact_li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+  padding: 10px;
+  margin-right: 30px;
+}
+.contact_p {
+  display: inline-block;
+  padding: 5px;
+  margin-right: 40px;
+  min-height: content;
+  font-size: 18px;
+  min-width: 150px;
+}
+.contact_number {
+  display: inline-block;
+  padding: 10px;
+  margin-right: 10px;
+  height: min-content;
+  min-width: 100px;
+  margin-right: 20px;
+  font-size: 18px;
+}
+
+.contact_btndell {
+  border-radius: 10px;
+  padding: 15px;
+  width: auto;
+  height: min-content;
+  cursor: pointer;
+}

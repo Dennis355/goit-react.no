@@ -1,0 +1,12 @@
+.phonebook_contacts_block {
+  display: block;
+  width: min-content;
+  height: min-content;
+}
+
+.phonebook_title_h2 {
+  font-size: 32px;
+  font-family: Arial, sans-serif;
+  font-style: italic;
+  text-shadow: 2px 2px 4px #000000;
+}
